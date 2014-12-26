@@ -1,4 +1,4 @@
 Hello-World
 ===========
 
-This is what the website told me to do
+I'm learning coding and Github was recommended. It looks promising so far and I can't wait to use it more
